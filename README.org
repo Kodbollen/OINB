@@ -2,3 +2,5 @@
 #+AUTHOR: Anders B. Ladefoged
 
 Rushed converter for org to ipython notebooks created due to problems with ox-ipynb.
+
+Current version only separates source blocks (lang=jupyter-python) and requires some manual adjusting in order to produce visually pleasing notebooks. 

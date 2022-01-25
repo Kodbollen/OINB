@@ -11,9 +11,6 @@ END_TOKEN = '#+end_src'
 
 notebook = ''
 
-# print(input_file)
-# print(output_file)
-
 def construct_cell(cell_type, source):
     cell = {'cell_type': cell_type,
             'metadata': {},
