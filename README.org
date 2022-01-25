@@ -1,0 +1,4 @@
+#+TITLE: OINP README
+#+AUTHOR: Anders B. Ladefoged
+
+Rushed converter for org to ipython notebooks created due to problems with ox-ipynb.
